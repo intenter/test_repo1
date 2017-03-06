@@ -5,4 +5,3 @@ this is change in test1 branch
 
 Another change in test 1 branch
 
-This is a conflicting change
